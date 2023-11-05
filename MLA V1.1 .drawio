@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-05T14:50:52.387Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="NcjBVE-WJaFov67OsF76" version="22.0.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-11-05T14:53:51.677Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="V8xjW5odrRKrlspwfQFO" version="22.0.8" type="github" pages="3">
   <diagram name="Part A" id="N2xcoQFA5SRcJ9eK8wpr">
-    <mxGraphModel dx="2284" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2284" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -777,7 +777,7 @@
         <mxCell id="Z32fYN7j_gOSrvxL4A8A-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Z32fYN7j_gOSrvxL4A8A-57" target="Z32fYN7j_gOSrvxL4A8A-89" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z32fYN7j_gOSrvxL4A8A-57" value="Case:&lt;br&gt;Existing customer that exist in new source file" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="Z32fYN7j_gOSrvxL4A8A-57" value="Check &#39;&#39;Exit&#39; in previous decision" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="515" y="1735" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Z32fYN7j_gOSrvxL4A8A-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Z32fYN7j_gOSrvxL4A8A-62" target="Z32fYN7j_gOSrvxL4A8A-64" edge="1">
@@ -860,7 +860,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z32fYN7j_gOSrvxL4A8A-89" value="Get previous decision" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Z32fYN7j_gOSrvxL4A8A-89" value="Previous EMC Decision&lt;br&gt;had at least &lt;br&gt;one time&#39;Exit&#39;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="519.47" y="1890" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Z32fYN7j_gOSrvxL4A8A-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Z32fYN7j_gOSrvxL4A8A-3" target="Z32fYN7j_gOSrvxL4A8A-45" edge="1">
@@ -874,7 +874,7 @@
         <mxCell id="Z32fYN7j_gOSrvxL4A8A-92" value="GCIF&lt;br&gt;Exist in &lt;br&gt;previous &lt;br&gt;year" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="870" y="980" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="hc_USSgsIE6fDiQTkJPm-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=2;" edge="1" parent="1" source="Z32fYN7j_gOSrvxL4A8A-65" target="Z32fYN7j_gOSrvxL4A8A-8">
+        <mxCell id="hc_USSgsIE6fDiQTkJPm-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=2;" parent="1" source="Z32fYN7j_gOSrvxL4A8A-65" target="Z32fYN7j_gOSrvxL4A8A-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="26" y="1820" as="sourcePoint" />
             <mxPoint x="178" y="1688" as="targetPoint" />
